@@ -1,3 +1,4 @@
 */.idea/
 *.stash
 */build/
+*/__pycache__/
